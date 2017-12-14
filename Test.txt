@@ -5,7 +5,7 @@ File numero 1 di test
 fine...
 
 in sincronia
-parallelamente
+parallelamente ciao
 
 e invece...
 
