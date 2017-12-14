@@ -4,8 +4,9 @@ File numero 1 di test
 
 fine...
 
-in sincronia
-parallelamente ciao
+
+parallelamente parallelamente
+
 
 e invece...
 
