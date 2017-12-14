@@ -4,8 +4,11 @@ File numero 1 di test
 
 fine...
 
+
 parallelamente parallelamente
+
 
 e invece...
 
+in sincronia
 parallelamente
