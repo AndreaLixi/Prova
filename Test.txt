@@ -4,7 +4,7 @@ File numero 1 di test
 
 fine...
 
-parallelamente
+parallelamente parallelamente
 
 e invece...
 
